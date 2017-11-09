@@ -1,0 +1,14 @@
+13*13
+xxxxxxxxxxxxx
+xooxxoooxxoox
+xoxxxxoxxxxox
+xxxoxoooxoxxx
+xxxxxxoxxxxxx
+xoxoxxoxxoxox
+xoxxxxoxxxxox
+xoxoxxoxxoxox
+xxxxxxoxxxxxx
+xxxoxoxoxoxxx
+xoxxxxoxxxxox
+xooxxoooxxoox
+xxxxxxxxxxxxx
